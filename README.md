@@ -1,6 +1,6 @@
 <!-- Progile Views -->
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaykant1.jaykant1&left_color=black&right_color=darkorange&left_text=Profile%20Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaykant01.jaykant01&left_color=black&right_color=darkorange&left_text=Profile%20Views"  />
 </div>
 
 <!-- Gradient Line -->
@@ -184,14 +184,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<!-- Fading Line -->
+<!-- Content -->
 <div align="center">
-<p align="right">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jaykant01&theme=rust-ferris-light&hide_border=true&card_width=400&card_height=201" alt="GitHub Streak" /></a></p>
-  <!-- Grap  -->
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=jaykant01&theme=radical&radius=10" alt="jaykant01's Activity Graph" />
-</p>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaykant01&layout=compact&theme=dark" alt="Top Languages" height="165">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=jaykant01&show_icons=true&theme=dark" alt="GitHub Stats" height="165">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jaykant01&theme=dark" alt="GitHub Streak Stats">
+
+<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=jaykant01&theme=radical&radius=10" alt="jaykant01's Activity Graph">
+
 </div>
 
 <!-- Fading Line -->
