@@ -1,49 +1,67 @@
+<!-- Progile Views -->
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaykant1.jaykant01&left_color=black&right_color=darkorange&left_text=Profile%20Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaykant1.jaykant1&left_color=black&right_color=darkorange&left_text=Profile%20Views"  />
 </div>
 
-<img src="https://media1.tenor.com/m/8dQszP67kDUAAAAC/steve-harrington-look.gif" alt="Banner" height="-10%" width="100%" />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
-
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=600&size=40&duration=5003&pause=100&color=FA5419F3&vCenter=true&width=435&height=80&lines=HI+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm" alt="Typing SVG" /></a>
-</div>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Jaykant%20Yadav&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
+<!-- Gradient Line -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<!-- Banner Image -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBvM2I0dmoxYmtjZnJrOGkxMmw5ZnY4NjZ5MGJjcmc3YzN0dmpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKVY9InPCvfSM34sS8/giphy.gif" alt="Banner" width="100%" />
+
+<!-- Gradient Line -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=600&size=40&duration=5003&pause=100&color=FA5419F3&vCenter=true&width=435&height=80&lines=About+Me" alt="Typing SVG" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<!-- Text Heading Hi I'm -->
 <div align="center">
-  
-🔭 I’m currently working on **building scalable backend systems**
-
-🤖 I’m currently learning **Advanced DSA, System Design, Spring Boot, C#, .NET**
-
-⚙️ Ask me about **Java, DSA strategies, debugging, clean code**
-
-⚡ Fun fact **Most of my bugs are fixed after midnight**
-
-“Write code like a ghost: silent, precise, unforgettable.”  
-— Software Engineer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=600&size=40&duration=5003&pause=1000&color=FF20D3&background=FFFFFF00&vCenter=true&width=435&height=80&lines=%F0%9F%91%8B%F0%9F%8F%BBHI!+I'M" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=600&size=40&duration=5003&pause=100&color=E20000F3&vCenter=true&width=435&height=80&lines=%F0%9F%94%AALanguage+%26+Tools+" alt="Typing SVG" /></a>
+<!-- Name Capsule -->
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Jaykant%20Yadav&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Section Divider" width="100%" />
 
+<!-- Text Heading About Me -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=600&size=40&duration=5003&pause=120&color=DC2823F3&background=FFFFFF00&vCenter=true&repeat=true&width=435&height=80&lines=%F0%9F%91%BBAbout+Me" alt="Typing SVG" /></a>
+</div>
+
+<!-- Fading Line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+<!-- Content About me -->
+<div align="right">
+
+🔭<i><b> I’m currently working on building scalable backend systems</b></i> 
+<br/>
+
+🤖 <i><b>I’m currently learning Advanced DSA, System Design, Spring Boot, C#, .NET</b></i>  
+<br/>
+🧠 <i><b>Ask me about Java, DSA strategies, debugging, clean code</b></i>  
+<br/>
+⚡ <i><b>Fun fact: Most of my bugs are fixed after midnight</b></i>  
+<br/>
+
+</div>
+
+<!-- Text Heading Language & tools -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=600&size=40&duration=5003&pause=120&color=F8FF18&background=FFFFFF00&vCenter=true&repeat=true&width=435&height=80&lines=%F0%9F%94%AALanguage+%26+Tools" alt="Typing SVG" /></a>
+</div>
+
+<!-- Fading Line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
+<!-- Tech Icons -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
@@ -98,18 +116,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60" alt="tomcat logo"  />
 </div>
 
+<!-- Text Heading Connect With Me -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=600&size=40&duration=5003&pause=100&color=25DCDBF3&vCenter=true&width=435&height=80&lines=%F0%9F%93%9FConnect+With+Me" alt="Typing SVG" /></a>
 </div>
 
+<!-- Fading Line -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<!-- Social Banner Icons -->
 <div align="center">
   <a href="https://www.linkedin.com/in/jaykantyadav/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  
   <a href="jaykanty24092004@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -121,31 +143,58 @@
   <a href="https://www.instagram.com/jaykant_02/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  
   <a href="https://discord.gg/efTNQHy9rQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+  
   <a href="https://x.com/Jaykant_02" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  
 </div>
 
-## 🔗 My Contribution
+<!-- Text Heading My Contribution -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=600&size=40&duration=5003&pause=120&color=3DFF15&background=FFFFFF00&center=true&vCenter=true&width=435&height=80&lines=%F0%9F%94%A5My+Contribution" alt="Typing SVG" /></a>
+</div>
+
+<!-- Gradient Line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
+<!-- Pacman Game -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jaykant01/jaykant01/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jaykant01/jaykant01/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/jaykant01/jaykant01/output/pacman-contribution-graph.svg" />
 </picture>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaykant01&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="jaykant01's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=jaykant01&theme=radical&hide_border=true&cache_seconds=86400" alt="jaykant01's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=jaykant01&theme=radical&radius=10" alt="jaykant01's Activity Graph" />
-</p>
+<!-- Text Heading Git Stats -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=600&size=40&duration=5003&pause=120&color=975BFF&background=FFFFFF00&vCenter=true&width=435&height=80&lines=%F0%9F%9A%80Git+Stats" alt="Typing SVG" /></a>
+</div>
 
+<!-- Fading Line -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<!-- Fading Line -->
+<div align="center">
+<p align="right">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jaykant01&theme=rust-ferris-light&hide_border=true&card_width=400&card_height=201" alt="GitHub Streak" /></a></p>
+  <!-- Grap  -->
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=jaykant01&theme=radical&radius=10" alt="jaykant01's Activity Graph" />
+</p>
+</div>
+
+<!-- Fading Line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
