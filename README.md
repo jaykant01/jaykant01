@@ -9,12 +9,12 @@
 </div>
 
 <!-- Banner Image -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBvM2I0dmoxYmtjZnJrOGkxMmw5ZnY4NjZ5MGJjcmc3YzN0dmpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKVY9InPCvfSM34sS8/giphy.gif" alt="Banner" width="100%" />
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBvM2I0dmoxYmtjZnJrOGkxMmw5ZnY4NjZ5MGJjcmc3YzN0dmpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKVY9InPCvfSM34sS8/giphy.gif" alt="Banner" width="100%" /> -->
 
 <!-- Gradient Line -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+</div> -->
 
 <!-- Text Heading Hi I'm -->
 <div align="center">
